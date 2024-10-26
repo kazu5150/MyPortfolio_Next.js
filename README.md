@@ -12,6 +12,8 @@ My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](h
 
 ## Running Locally
 
+　参考サイト：https://vercel.com/templates/next.js/nextjs-portfolio-pageview-counter
+
 
 ```sh-session
 git clone https://github.com/chronark/chronark.com.git
